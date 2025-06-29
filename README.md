@@ -80,14 +80,6 @@ Successfully designed a clean, interactive Power BI dashboard showcasing:
 
 ---
 
-## 🔗 Connect with Me
-
-- **Name**: Dilip Vankayala
-- **LinkedIn**: [linkedin.com/in/dilip-vankayala](https://www.linkedin.com/in/dilip-vankayala/)
-- **Instagram**: [@dilip_vankayala](https://www.instagram.com/dilip_vankayala/)
-
----
-
 ## 🏢 About Cognifyz Technologies
 
 Cognifyz is a leading technology company specializing in data science, AI/ML, and business analytics. They offer a wide range of services and hands-on internships that enhance skillsets through real-time projects.
